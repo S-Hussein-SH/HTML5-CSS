@@ -50,6 +50,16 @@
   cursor: pointer;
 }
 
+.showcase video{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  opacity: 0.5;
+}
+
 .social {
   width: 30px;
 }
