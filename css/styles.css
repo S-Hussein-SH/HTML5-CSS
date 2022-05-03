@@ -16,8 +16,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-background: #111;
-color: #fff;
-z-index: 2;
+  background: #111;
+  color: #fff;
+  z-index: 2;
 }
 
+.social {
+  width: 30px;
+}
