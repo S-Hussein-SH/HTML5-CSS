@@ -21,6 +21,12 @@
   z-index: 2;
 }
 
+.toggle img {
+  position: relative;
+  width: 50px;
+  cursor: pointer;
+}
+
 .social {
   width: 30px;
 }
