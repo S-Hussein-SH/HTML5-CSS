@@ -44,6 +44,12 @@
   cursor: pointer;
 }
 
+.toggle.active img {
+  transform: rotate(90deg);
+  width: 40px;
+  cursor: pointer;
+}
+
 .social {
   width: 30px;
 }
